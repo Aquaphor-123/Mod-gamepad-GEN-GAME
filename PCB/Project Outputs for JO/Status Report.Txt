@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [JO.PrjPcb]
+   Generated File[JO.GTL]
+   Generated File[JO.RUL]
+   Generated File[JO.EXTREP]
+   Generated File[JO.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:16:04 On 13.01.2024
